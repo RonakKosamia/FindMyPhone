@@ -3,7 +3,7 @@
 
 
 
-An sapplication notifies you when you may have left your phone behind
+An application notifies you when you may have left your phone behind
 (specifically, when your companion and wearable disconnect). If you have misplaced your phone, but
 it is still connected to your wearable, you can also start an activity on the wearable to sound an
 alarm on your phone.
